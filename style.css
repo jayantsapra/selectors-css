@@ -1,0 +1,31 @@
+div{
+    background: purple;
+    color: white;
+}
+#quote{
+    font-family: "verdana" , "gill sans";
+    color: green;
+}
+.movie {
+    color: black;
+    background: gold;
+}
+span#author {
+    text-transform: uppercase;
+}
+#skills ol li{
+    color: red;
+}
+#skills ul li{
+    color: blue;
+}
+h3 + p{
+background: black;
+color: white;
+}
+p[class] {
+    background: gray;
+}
+p[id] {
+    background: gray;
+}
